@@ -1,6 +1,5 @@
 class Cat{
 public:
   void meow(){
-    cout << "MEOW!";
   }
 };
